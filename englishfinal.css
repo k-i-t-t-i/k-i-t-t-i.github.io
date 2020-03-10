@@ -1,0 +1,41 @@
+nav ul {
+list-style-type: none;
+border: 0px solid #111111;
+border-radius: 5px;
+font-family: Noto Sans, sans-serif;
+font-weight: 400;
+padding: 12px;
+}
+nav ul li {
+display: inline;
+border-right: 1px solid
+#111111;
+padding-right: 8px;
+padding-left: 8px;
+}
+nav ul li:last-child {
+border-right: none;
+}
+nav ul li a {
+text-decoration:none;
+color:#111111;
+}
+nav li.selected {
+color: #606060;
+}
+nav ul li a:hover {
+text-decoration: underline;
+}
+.demopara {
+  line-height: 2 ;
+}
+body {
+font-family: Noto Sans, sans-serif;
+font-size: 18px;
+background-color: #f5efe9;
+background-image: url("bk1.jpg");
+}
+html {
+}
+
+/* Start http://www.cursors-4u.com */ * {cursor: url(http://cur.cursors-4u.net/symbols/sym-7/sym637.ani), url(http://cur.cursors-4u.net/symbols/sym-7/sym637.png), auto !important;} /* End http://www.cursors-4u.com */
